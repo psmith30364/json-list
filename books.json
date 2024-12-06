@@ -8,7 +8,8 @@
             "ageRating": 16,
             "userRating": 4.8,
             "format": "печатная",
-            "language": "русский"
+            "language": "русский",
+            "inStock": true
         },
         {
             "title": "Властелин колец",
@@ -18,7 +19,8 @@
             "ageRating": 12,
             "userRating": 4.9,
             "format": "печатная",
-            "language": "русский"
+            "language": "русский",
+            "inStock": true
         },
         {
             "title": "Гарри Поттер и философский камень",
@@ -28,7 +30,8 @@
             "ageRating": 6,
             "userRating": 4.7,
             "format": "электронная",
-            "language": "русский"
+            "language": "русский",
+            "inStock": false
         },
         {
             "title": "Убийство в Восточном экспрессе",
@@ -38,7 +41,8 @@
             "ageRating": 16,
             "userRating": 4.6,
             "format": "печатная",
-            "language": "русский"
+            "language": "русский",
+            "inStock": true
         },
         {
             "title": "Sapiens. Краткая история человечества",
@@ -48,7 +52,8 @@
             "ageRating": 18,
             "userRating": 4.9,
             "format": "печатная",
-            "language": "русский"
+            "language": "русский",
+            "inStock": true
         },
         {
             "title": "Мир кулинарии",
@@ -58,7 +63,8 @@
             "ageRating": 18,
             "userRating": 4.8,
             "format": "печатная",
-            "language": "русский"
+            "language": "русский",
+            "inStock": false
         },
         {
             "title": "Шерлок Холмс",
@@ -68,7 +74,8 @@
             "ageRating": 12,
             "userRating": 4.5,
             "format": "печатная",
-            "language": "русский"
+            "language": "русский",
+            "inStock": true
         },
         {
             "title": "The Great Gatsby",
@@ -78,7 +85,8 @@
             "ageRating": 16,
             "userRating": 4.7,
             "format": "электронная",
-            "language": "английский"
+            "language": "английский",
+            "inStock": true
         },
         {
             "title": "Маленький принц",
@@ -88,7 +96,8 @@
             "ageRating": 6,
             "userRating": 4.9,
             "format": "печатная",
-            "language": "русский"
+            "language": "русский",
+            "inStock": true
         },
         {
             "title": "1984",
@@ -98,7 +107,8 @@
             "ageRating": 16,
             "userRating": 4.8,
             "format": "электронная",
-            "language": "русский"
+            "language": "русский",
+            "inStock": false
         },
         {
             "title": "Цветы для Элджернона",
@@ -108,7 +118,8 @@
             "ageRating": 16,
             "userRating": 4.9,
             "format": "печатная",
-            "language": "русский"
+            "language": "русский",
+            "inStock": true
         },
         {
             "title": "Мастер и Маргарита",
@@ -118,7 +129,8 @@
             "ageRating": 18,
             "userRating": 4.7,
             "format": "печатная",
-            "language": "русский"
+            "language": "русский",
+            "inStock": true
         },
         {
             "title": "Приключения Питера Кролика",
@@ -128,7 +140,8 @@
             "ageRating": 0,
             "userRating": 4.9,
             "format": "печатная",
-            "language": "русский"
+            "language": "русский",
+            "inStock": true
         },
         {
             "title": "Лунтик и его друзья",
@@ -138,7 +151,8 @@
             "ageRating": 3,
             "userRating": 4.7,
             "format": "печатная",
-            "language": "русский"
+            "language": "русский",
+            "inStock": true
         },
         {
             "title": "Колобок",
@@ -148,7 +162,8 @@
             "ageRating": 6,
             "userRating": 4.8,
             "format": "печатная",
-            "language": "русский"
+            "language": "русский",
+            "inStock": true
         },
         {
             "title": "Приключения Буратино",
@@ -158,7 +173,63 @@
             "ageRating": 6,
             "userRating": 4.9,
             "format": "печатная",
-            "language": "русский"
+            "language": "русский",
+            "inStock": false
+        },
+        {
+            "title": "Тёмные начала",
+            "author": "Филип Пулман",
+            "price": 850,
+            "genre": "фэнтези",
+            "ageRating": 14,
+            "userRating": 4.7,
+            "format": "печатная",
+            "language": "русский",
+            "inStock": true
+        },
+        {
+            "title": "Жена между нами",
+            "author": "Грейс Сэндерс",
+            "price": 550,
+            "genre": "триллер",
+            "ageRating": 18,
+            "userRating": 4.5,
+            "format": "печатная",
+            "language": "русский",
+            "inStock": true
+        },
+        {
+            "title": "Трудные люди",
+            "author": "Людмила Улицкая",
+            "price": 600,
+            "genre": "современная проза",
+            "ageRating": 16,
+            "userRating": 4.6,
+            "format": "печатная",
+            "language": "русский",
+            "inStock": false
+        },
+        {
+            "title": "Параллельные миры",
+            "author": "Фредерик Бакман",
+            "price": 720,
+            "genre": "драма",
+            "ageRating": 18,
+            "userRating": 4.8,
+            "format": "печатная",
+            "language": "русский",
+            "inStock": true
+        },
+        {
+            "title": "Красное предупреждение",
+            "author": "Джеймс Роллинс",
+            "price": 750,
+            "genre": "приключенческий триллер",
+            "ageRating": 16,
+            "userRating": 4.7,
+            "format": "печатная",
+            "language": "русский",
+            "inStock": true
         }
     ]
 }
